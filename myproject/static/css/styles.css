@@ -1,0 +1,13 @@
+.navbar-dark{
+    background-color: black;
+}
+
+.navbar-brand{
+    font-family: 'Cabin', sans-serif;
+}
+
+.navbar-brand,
+.navbar-brand:hover{
+    color: #ffffff;
+
+}
